@@ -93,7 +93,10 @@ span.head-icon .twit {
 
 .top-banner{
 background: linear-gradient( rgba(155, 138, 138, 0.6),rgba(134, 120, 120, 0.47)) ,url(../images/banner.png);
-
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
 
   padding: 17rem 0;
   color: white;
