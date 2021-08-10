@@ -38,6 +38,8 @@ header{
 }
 .full-nav{
   margin-top: 2rem;
+  background: rgb(213, 202, 219);
+  
 }
 
 .nav-color ul li a{
@@ -125,7 +127,10 @@ font-weight: 600;
 transition: all linear .4s;
 }
 .banner-btn a:hover{
-  background-color: #e84545;}
+  background-color: #e84545;
+
+    box-shadow: inherit 0 4.3rem 0.5rem rebeccapurple;
+}
 
 .banner-btn {
   margin-top: 15rem;
